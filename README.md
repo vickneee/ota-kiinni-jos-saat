@@ -121,6 +121,6 @@ Samu Kirjonen, Alessa Pentinmikko, Doni Trivedi, Victoria Vavulina
 
 #### Selaimen pelin video linkki:
 
-[![Watch the video](./frontend/assets/YT_video.png)](https://www.youtube.com/watch?v=2oeH_PIistw)
+[![Watch the video](./frontend/assets/YT_video.png)](https://www.youtube.com/watch?v=n1hs_IwryeM)
 
 ---
