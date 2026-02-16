@@ -1,4 +1,4 @@
-# Ota kiinni jos saat!
+# Ota Kiinni Jos Saat!
 
 ## Python Project
 
