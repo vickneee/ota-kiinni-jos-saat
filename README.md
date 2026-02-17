@@ -1,6 +1,6 @@
 # Ota Kiinni Jos Saat!
 
-## Python Project
+## Python Projekti
 
 Alun perin konsolipelinä toteutettu full-stack-sovellus, joka laajennettiin selainpohjaiseksi. Backend on toteutettu Pythonilla ja MariaDB-tietokannalla, ja frontend rakennettu HTML-, CSS- ja JavaScript-teknologioilla. Hyödyntää myös ulkoisia rajapintoja, kuten Google Maps API ja AzureOpenAI GPT-4. 
 
